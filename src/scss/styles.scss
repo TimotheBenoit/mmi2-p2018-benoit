@@ -1,5 +1,8 @@
 @import 'blocs/header';
 @import 'blocs/footer';
+@import 'mixins';
+
+$crow:rgb(40,40,40)
 
 @font-face {
  font-family: "Roboto";
